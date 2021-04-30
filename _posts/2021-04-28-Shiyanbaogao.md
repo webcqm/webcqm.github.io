@@ -4,14 +4,14 @@ author: cqm
 ---
 # WEB应用软件开发实训 - 第二次作业 -开发一个静态网站
 网站的公网网址：https://webcqm.github.io/，网站源代码Github仓库网址：https://github.com/webcqm/webcqm.github.io
-##一. 网站目录结构
+## 一. 网站目录结构
 ![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/网站目录结构1.jpg)
-
 ![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/网站目录结构2.jpg）
 ## 二.网站截图
 ![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/Staff列表页.png)
 ![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/首页.png)
 ![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/Markdown练习.png)
+![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/实验报告截图.png)
 ![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/About页面.png)
 ![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/作者简介.png)
 ## 三.实验过程
