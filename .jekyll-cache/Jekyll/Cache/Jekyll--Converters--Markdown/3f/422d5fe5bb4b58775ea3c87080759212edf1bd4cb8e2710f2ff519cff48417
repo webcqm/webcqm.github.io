@@ -1,31 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Blog</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-    <nav>
-    
-      <a href="/" >Home</a>
-    
-      <a href="/about.html" >About</a>
-    
-      <a href="/text.html" >text</a>
-    
-      <a href="/blog.html" class="current">blog</a>
-    
-      <a href="/staff.html" >Staff</a>
-    
-  </nav>
-    <h1>Latest Posts</h1>
-
-<ul>
-  
-    <li>
-      <h2><a href="/2021/04/28/Shiyanbaogao.html">Shiyanbaogao</a></h2>
-      <h1 id="web应用软件开发实训---第二次作业--开发一个静态网站">WEB应用软件开发实训 - 第二次作业 -开发一个静态网站</h1>
+I"f<h1 id="web应用软件开发实训---第二次作业--开发一个静态网站">WEB应用软件开发实训 - 第二次作业 -开发一个静态网站</h1>
 <p>网站的公网网址：https://webcqm.github.io/，网站源代码Github仓库网址：https://github.com/webcqm/webcqm.github.io</p>
 <h2 id="一-网站目录结构">一. 网站目录结构</h2>
 <p><img src="https://webcqm.github.io/wsq.github.io/网站目录结构1.jpg" alt="RUNOOB 图标" />
@@ -48,35 +21,4 @@
 <p>在电脑上安装VSCode以及remote插件。在WSL上安装jekyll.并按照“Step by Step Tutorial”的内容，完成第1-9步。将Markdown练习内容，实验报告以帖子形式发布到网站上。WSL上安装nginx，并“jekyll build”编译网站，将得到的_site目录部署到nginx。将网站源代码push到Github.com网站，通过Github.io网站检查jekyll代码。实验报告以帖子形式发布到网站上。</p>
 <h2 id="四总结">四.总结</h2>
 <p>通过本次实验学会了如何上传到github,以及部署到nginx。</p>
-
-    </li>
-  
-    <li>
-      <h2><a href="/2021/04/23/Markdown.html">Markdown</a></h2>
-      <h1 id="这是一个一级标题">这是一个一级标题</h1>
-
-    </li>
-  
-    <li>
-      <h2><a href="/2018/08/22/kiwifruit.html">Kiwifruit</a></h2>
-      <p>Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
-berry of several species of woody vines in the genus Actinidia.</p>
-
-    </li>
-  
-    <li>
-      <h2><a href="/2018/08/21/apples.html">Apples</a></h2>
-      <p>An apple is a sweet, edible fruit produced by an apple tree.</p>
-
-    </li>
-  
-    <li>
-      <h2><a href="/2018/08/20/bananas.html">Bananas</a></h2>
-      <p>A banana is an edible fruit – botanically a berry – produced by several kinds
-of large herbaceous flowering plants in the genus Musa.</p>
-
-    </li>
-  
-</ul>
-  </body>
-</html>
+:ET
